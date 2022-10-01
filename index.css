@@ -142,8 +142,6 @@ h1{
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
 }
-
-  //for small screens
 @media screen and (max-width:1000px) {
     #navBar{
         justify-content: space-evenly;
