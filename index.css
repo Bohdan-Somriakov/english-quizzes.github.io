@@ -149,4 +149,7 @@ h1{
     .contact-links a{
         font-size: 1.8rem;
     }
+	nav ul li a{
+		font-size: 1.0rem;
+	}
 }
