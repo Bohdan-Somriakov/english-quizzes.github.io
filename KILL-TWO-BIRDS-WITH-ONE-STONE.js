@@ -8,14 +8,14 @@ const quizData = [
         correct: 'b',
       },
       {
-        question: 'How old was Patty Hearst when she was kidnapped?',
+        question: 'How old was Patty Hearst when she was kidnapped ?',
         a: '19',
         b: '17',
         c: '16',
         correct: 'a',
     },
     {
-      question: 'How the group of criminals was called?',
+      question: 'How the group of criminals was called ?',
       a: 'LAS',
       b: 'SLA',
       c: 'SAL',
@@ -29,7 +29,7 @@ const quizData = [
       correct: 'b',
     },
     {
-      question: 'What did news show two months after her kidnapping?',
+      question: 'What did news show two months after her kidnapping ?',
       a: 'a gun-toting Patty enthusiastically robbing a villa',
       b: 'a gun-toting Patty enthusiastically robbing a shop',
       c: 'a gun-toting Patty enthusiastically robbing a bank',
@@ -71,7 +71,7 @@ const quizData = [
         correct: 'a',
       },
       {
-        question: 'What did happen to the bank hostages after just five days of being captive?',
+        question: 'What did happen to the bank hostages after just five days of being captive ?',
         a: 'the bank hostages broke free',
         b: 'the bank hostages were rescued by American special forces',
         c: 'the bank hostages refused help from police and instead defended their captors',
