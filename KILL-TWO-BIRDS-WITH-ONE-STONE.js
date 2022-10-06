@@ -17,9 +17,9 @@ const quizData = [
     {
       question: 'How the group of criminals was called ?',
       a: 'LAS',
-      b: 'SLA',
-      c: 'SAL',
-      correct: 'b',
+      b: 'SAL',
+      c: 'SLA',
+      correct: 'c',
     },
     {
       question: 'Where did SLA keep Patty ?',
