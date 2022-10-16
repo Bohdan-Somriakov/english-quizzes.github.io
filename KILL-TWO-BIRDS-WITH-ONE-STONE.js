@@ -64,7 +64,7 @@ const quizData = [
         correct: 'b',
       },
       {
-        question: 'From what did Patty suffer ?',
+        question: 'What did Patty suffer from?',
         a: 'Stockholm Syndrome',
         b: 'Stockton Syndrome',
         c: 'Sacramento Syndrome',
