@@ -1,4 +1,4 @@
-/*quiz data */
+/* quiz data  */
 const quizData = [
     {
         question: 'What language WAS NOT mentioned in the programme ?',
