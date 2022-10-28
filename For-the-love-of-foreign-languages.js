@@ -64,7 +64,7 @@ const quizData = [
         correct: 'c',
       },
       {
-        question: 'Who DID NOT use the word proficiency in hes speech ?',
+        question: 'Who DID NOT use the word proficiency in his speech ?',
         a: 'Neil',
         b: 'Rob',
         c: 'Eve Fedorenko',
