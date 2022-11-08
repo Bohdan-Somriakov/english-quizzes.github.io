@@ -1,3 +1,4 @@
+/*quiz data*/
 const quizData = [
     {
       question: 'What is true about Rob ?',
