@@ -2,7 +2,7 @@
 const quizData = [
     {
       question: 'What is true about Rob ?',
-      a: 'He has a great memory when it come to remembering names',
+      a: 'He has a great memory when it comes to remembering names',
       b: 'he has a photographic memory',
       c: 'He can remember people’s faces',
       correct: 'c',
