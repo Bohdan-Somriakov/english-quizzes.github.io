@@ -1,4 +1,4 @@
-/*  quiz data  */
+/* quiz data */
 const quizData = [
     {
       question: 'How many species is the earth losing each day ?',
