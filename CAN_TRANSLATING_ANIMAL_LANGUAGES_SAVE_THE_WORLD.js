@@ -1,4 +1,4 @@
-/* quiz data */
+/*  quiz data  */
 const quizData = [
     {
       question: 'How many species is the earth losing each day ?',
@@ -25,7 +25,7 @@ const quizData = [
       question: 'What was the flip side of Twiter ?',
       a: 'illegal market',
       b: 'scam',
-      c: 'Bigots and xenophobes',
+      c: 'bigots and xenophobes',
       correct: 'c',
     },
     {
@@ -50,7 +50,7 @@ const quizData = [
         correct: 'c',
       },  
       {
-        question: 'How much human lifetimes a day does the infinite scroll wastes, according to Aza ?',
+        question: 'How much human lifetimes a day does the infinite scroll waste, according to Aza ?',
         a: '20000',
         b: '200000',
         c: '2000000',
