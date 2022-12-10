@@ -1,4 +1,4 @@
-/*quiz data */
+/ *quiz data */
 const quizData = [
     {
       question: 'What does IM stand for ?',
