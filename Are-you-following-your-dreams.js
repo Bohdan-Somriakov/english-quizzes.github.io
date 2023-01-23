@@ -18,7 +18,7 @@ const quizData = [
       question: '"I wish I had followed my dreams" means... ?',
       a: 'I want to follow my dreams in the future',
       b: 'I want to follow my dreams now',
-      c: 'I regret for not following my dreams in the past',
+      c: 'I regret not following my dreams in the past',
       correct: 'c',
     },
     {
