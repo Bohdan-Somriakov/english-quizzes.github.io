@@ -1,4 +1,4 @@
-/* quiz data */
+/*  quiz data  */
 const quizData = [
     {
       question: 'Which is correct "They wanted the world to become __ utopia" ?',
