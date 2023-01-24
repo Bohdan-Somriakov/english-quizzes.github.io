@@ -43,7 +43,7 @@ const quizData = [
         correct: 'a',
       },
     {
-        question: 'What did happen to Herman after travelling ?',
+        question: 'What happened to Herman after travelling ?',
         a: 'He became more arrogant',
         b: 'He became more hubmle',
         c: 'He became more honest',
