@@ -1,4 +1,4 @@
- /* quiz data */
+ /*quiz data */
  const quizData = [
     {
       question: 'What things can VR do, according to the program ?',
