@@ -1,4 +1,4 @@
- / *quiz data */
+ /*quiz data */
  const quizData = [
     {
       question: 'What animal WAS NOT mentioned in the program ?',
@@ -43,7 +43,7 @@
         correct: 'b',
       },
     {
-        question: 'When do all all mammals play ?',
+        question: 'When do all mammals play ?',
         a: 'when they’re fighting',
         b: 'when they’re bored',
         c: 'when they’re juveniles',
