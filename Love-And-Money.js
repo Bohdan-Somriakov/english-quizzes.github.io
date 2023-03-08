@@ -1,4 +1,4 @@
- /*quiz data */
+ /* quiz data */
  const quizData = [
     {
       question: 'What IS NOT the synonym of the word "chores" ?',
