@@ -1,4 +1,4 @@
-/*quiz data */
+/* quiz data */
 const quizData = [
     {
       question: 'Where is Beijin situated ?',
