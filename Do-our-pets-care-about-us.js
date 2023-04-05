@@ -1,4 +1,4 @@
- /* quiz data */
+ /*quiz data */
  const quizData = [
     {
       question: 'What CANNOT be the synonym of the word "domesticated" ?',
